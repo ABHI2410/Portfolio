@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /Projects.html
+Allow: /
+
+User-agent: GoogleBot
+Allow: /
+Disallow: /Projects.html
+
+User-agent: Bingbot
+Allow: /
+Disallow: /Projects.html
+
+User-agent: yahoo-mmcrawler
+Allow: /
+Allow: /Projects.html
+
+User-agent: GoogleBot-Mobile
+Allow: /
+Disallow: /Projects.html
+
+Sitemap: https://www.abhishekpatel.live/sitemap.xml
