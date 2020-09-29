@@ -1,4 +1,4 @@
-sUser-agent: GoogleBot
+User-agent: GoogleBot
 Allow: /
 Disallow: /Projects.html
 
@@ -13,5 +13,8 @@ Allow: /Projects.html
 User-agent: GoogleBot-Mobile
 Allow: /
 Disallow: /Projects.html
+
+User-agent: *
+Disallow: /
 
 Sitemap: https://www.abhishekpatel.live/sitemap.xml
