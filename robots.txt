@@ -11,7 +11,7 @@ Disallow: /Projects.html
 
 User-agent: yahoo-mmcrawler
 Allow: /
-Allow: /Projects.html
+Disallow: /Projects.html
 
 User-agent: GoogleBot-Mobile
 Allow: /
