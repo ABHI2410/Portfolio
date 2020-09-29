@@ -1,8 +1,4 @@
-User-agent: *
-Disallow: /Projects.html
-Allow: /
-
-User-agent: GoogleBot
+sUser-agent: GoogleBot
 Allow: /
 Disallow: /Projects.html
 
